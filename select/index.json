@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Brand New Door",
+  "base_artist": "color-code",
+  "createdAt": "2026-03-08T13:33:33.463909Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Brand New Door",
+      "artist": "color-code",
+      "has_synced": false,
+      "path": "select/pl_01_Brand_New_Door_color-code.txt"
+    }
+  ]
+}
